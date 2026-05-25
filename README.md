@@ -1,45 +1,45 @@
 # 🇺🇸 (English):
 
-# School Timetable
-An interactive web-based school timetable application with built-in multi-language support and an adaptive responsive grid.
+# Music Player Widget
+A sleek, responsive audio player widget inspired by the modern Spotify user interface.
 
 ### Project Description
-A clean, grid-based school schedule viewer. It allows users to quickly check classes and switch between multiple languages on the fly, offering a lightweight and intuitive user experience.
+A minimalist single-track music player widget featuring custom media controls, smooth interactions, and a clean layout tailored for modern web interfaces or dashboard widgets.
 
 ### Features:
-* **Multi-language Support:** Instantly switches between Russian (RU), English (EN), and Slovak (SK) without reloading the page.
-* **Modern Grid Layout:** Uses CSS Grid for structured, sharp, and clean separation of days and periods.
-* **Mobile-friendly Scrolling:** Features a custom horizontal swipe/scroll mechanism for flawless display on smartphones.
-* **Interactive Elements:** Smooth hover transitions on language controls and individual subject blocks.
+* **Spotify-Inspired Aesthetic:** Clean card layout with a circular play/pause button and smooth hover micro-animations.
+* **Custom Timeline Control:** Fully interactive custom range input (progress bar) allowing precise track seeking.
+* **Dynamic Time Tracking:** Real-time updates for both the current elapsed playback time and the total duration.
+* **Perfectly Centered Layout:** Clean Flexbox implementation ensuring the widget stays perfectly centered on any screen.
 
 ### Technologies Used:
-* **HTML5:** Semantic architecture for structured and clean data representation.
-* **CSS3:** Advanced CSS Grid layout, Flexbox positioning, and custom overflow management for mobile adaptation.
-* **JavaScript (Vanilla):** Dynamic DOM manipulation for on-the-fly language switching and localization logic.
+* **HTML5:** Semantic markup, including native `<audio>` element integration and custom `<input type="range">`.
+* **CSS3:** Flexbox layout, hover transitions, customized range track styling, and adaptive bounding box controls.
+* **JavaScript (Vanilla):** Audio object management, timeupdate event listeners, and drag-and-seek playback synchronization logic.
 
 ### Live Demo: 
-[https://doremsa.github.io/school-timetable](https://doremsa.github.io/school-timetable)
+[https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
 
 ---
 
 # 🇸🇰 (Slovak): 
 
-# Školský rozvrh
-Interaktívna webová aplikácia pre školský rozvrh s integrovanou podporou viacerých jazykov a responzívnou mriežkou.
+# Hudobný prehrávač (Widget)
+Elegantný a responzívny widget audio prehrávača inšpirovaný moderným používateľským rozhraním Spotify.
 
 ### Popis projektu
-Prehľadný prehliadač školského rozvrhu postavený na CSS Grid. Umožňuje používateľom rýchlo kontrolovať hodiny a okamžite prepínať medzi viacerými jazykmi, čo poskytuje rýchly a intuitívny zážitok.
+Minimalistický hudobný prehrávač pre jednu skladbu s vlastným ovládaním médií, plynulými interakciami a čistým vzhľadom, navrhnutý pre moderné webové rozhrania alebo widgety na nástenke.
 
 ### Vlastnosti:
-* **Podpora viacerých jazykov:** Okamžité prepínanie medzi ruštinou (RU), angličtinou (EN) a slovenčinou (SK) bez nutnosti preťažovania stránky.
-* **Moderné rozloženie (Grid):** Využíva CSS Grid pre štruktúrované, jasné a čisté oddelenie dní a vyučovacích hodín.
-* **Optimalizácia pre mobily:** Obsahuje prispôsobený mechanizmus horizontálneho posúvania (scrollu) pre bezchybné zobrazenie na smartfónoch.
-* **Interaktívne prvky:** Plynulé hover prechody na tlačidlách výberu jazyka a jednotlivých blokoch predmetov.
+* **Estetika v štýle Spotify:** Čisté rozloženie karty s okrúhlym tlačidlom prehrávania/pozastavenia a plynulými hover mikro-animáciami.
+* **Vlastná časová os:** Plne interaktívny posuvník (progress bar) umožňujúci presné pretáčanie skladby.
+* **Dynamické sledovanie času:** Aktualizácie v reálnom čase pre aktuálny uplynulý čas prehrávania aj celkovú dĺžku skladby.
+* **Perfektne vycentrovaný vzhľad:** Čistá implementácia Flexboxu, ktorá zaisťuje, že widget zostane dokonale vycentrovaný na akejkoľvek obrazovke.
 
 ### Použité technológie:
-* **HTML5:** Sémantická architektúra pre štruktúrovanú a čistú reprezentáciu údajov.
-* **CSS3:** Pokročilé rozloženie CSS Grid, polohovanie Flexbox a správa pretečenia obsahu pre mobilnú adaptáciu.
-* **JavaScript (Vanilla):** Dynamická manipulácia s DOM pre okamžité prepínanie jazykov a lokalizačnú logiku.
+* **HTML5:** Sémantický kód vrátane integrácie natívneho prvku `<audio>` a prispôsobeného `<input type="range">`.
+* **CSS3:** Rozloženie Flexbox, hover prechody, kustomizovaný vzhľad posuvníka a responzívne obmedzenie rozmerov karty.
+* **JavaScript (Vanilla):** Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
 
 ### Demo naživo: 
-[https://doremsa.github.io/school-timetable](https://doremsa.github.io/school-timetable)
+[https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
