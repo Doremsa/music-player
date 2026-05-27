@@ -1,4 +1,5 @@
-<img width="459" height="585" alt="image" src="https://github.com/user-attachments/assets/14c29917-5a96-475d-a51b-efbb2267110b" />
+<img width="459" height="585" alt="image" src="https://github.com/user-attachments/assets/14c29917-5a96-475d-a51b-efbb2267110b"/>
+
 # 🇺🇸 (English):
 
 # Music Player Widget
