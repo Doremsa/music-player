@@ -14,7 +14,9 @@ A minimalist single-track music player widget featuring custom media controls, s
 
 ### Technologies Used:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic markup, including native `<audio>` element integration and custom `<input type="range">`.
+
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Flexbox layout, hover transitions, customized range track styling, and adaptive bounding box controls.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Audio object management, timeupdate event listeners, and drag-and-seek playback synchronization logic.
 
 ### Live Demo: 
