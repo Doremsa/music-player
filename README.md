@@ -40,10 +40,11 @@ Minimalistický hudobný prehrávač pre jednu skladbu s vlastným ovládaním m
 
 ### Použité technológie:
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Sémantický kód vrátane integrácie natívneho prvku `<audio>` a prispôsobeného `<input type="range">`.
+* ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Sémantický kód vrátane integrácie natívneho prvku `<audio>` a prispôsobeného `<input type="range">`.
 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Rozloženie Flexbox, hover prechody, kustomizovaný vzhľad posuvníka a responzívne obmedzenie rozmerov karty.
+* ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Rozloženie Flexbox, hover prechody, kustomizovaný vzhľad posuvníka a responzívne obmedzenie rozmerov karty.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
+* ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
+  
 ### Demo naživo: 
 [https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
