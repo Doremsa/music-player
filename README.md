@@ -1,3 +1,6 @@
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+
 # 🇺🇸 (English):
 
 # Music Player Widget
