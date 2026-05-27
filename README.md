@@ -8,6 +8,9 @@ A sleek, responsive audio player widget inspired by the modern Spotify user inte
 ### Project Description
 A minimalist single-track music player widget featuring custom media controls, smooth interactions, and a clean layout tailored for modern web interfaces or dashboard widgets.
 
+### Live Demo:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?logo=github)](https://doremsa.github.io/music-player)
+
 ### Features:
 * **Spotify-Inspired Aesthetic:** Clean card layout with a circular play/pause button and smooth hover micro-animations.
 * **Custom Timeline Control:** Fully interactive custom range input (progress bar) allowing precise track seeking.
@@ -21,9 +24,6 @@ A minimalist single-track music player widget featuring custom media controls, s
 
 * ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Audio object management, timeupdate event listeners, and drag-and-seek playback synchronization logic.
 
-### Live Demo:
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?logo=github)](https://doremsa.github.io/music-player)
-
 ---
 
 # 🇸🇰 (Slovak): 
@@ -33,6 +33,9 @@ Elegantný a responzívny widget audio prehrávača inšpirovaný moderným pou�
 
 ### Popis projektu
 Minimalistický hudobný prehrávač pre jednu skladbu s vlastným ovládaním médií, plynulými interakciami a čistým vzhľadom, navrhnutý pre moderné webové rozhrania alebo widgety na nástenke.
+
+### Demo naživo:
+[![Demo naživo](https://img.shields.io/badge/Demo%20naživo-Navštíviť%20stránku-brightgreen?logo=github)](https://doremsa.github.io/music-player)
 
 ### Vlastnosti:
 * **Estetika v štýle Spotify:** Čisté rozloženie karty s okrúhlym tlačidlom prehrávania/pozastavenia a plynulými hover mikro-animáciami.
@@ -47,6 +50,3 @@ Minimalistický hudobný prehrávač pre jednu skladbu s vlastným ovládaním m
 * ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Rozloženie Flexbox, hover prechody, kustomizovaný vzhľad posuvníka a responzívne obmedzenie rozmerov karty.
 
 * ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
-  
-### Demo naživo:
-[![Demo naživo](https://img.shields.io/badge/Demo%20naživo-Navštíviť%20stránku-brightgreen?logo=github)](https://doremsa.github.io/music-player)
