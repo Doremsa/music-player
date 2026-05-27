@@ -19,8 +19,10 @@ A minimalist single-track music player widget featuring custom media controls, s
 
 * ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Audio object management, timeupdate event listeners, and drag-and-seek playback synchronization logic.
 
-### Live Demo: 
-[https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
+### Live Demo:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?logo=github)](https://doremsa.github.io/music-player)
+
+### 🌐 Live Demo → [doremsa.github.io/music-player](https://doremsa.github.io/music-player)
 
 ---
 
