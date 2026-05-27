@@ -22,8 +22,6 @@ A minimalist single-track music player widget featuring custom media controls, s
 ### Live Demo:
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?logo=github)](https://doremsa.github.io/music-player)
 
-### 🌐 Live Demo → [doremsa.github.io/music-player](https://doremsa.github.io/music-player)
-
 ---
 
 # 🇸🇰 (Slovak): 
@@ -48,5 +46,5 @@ Minimalistický hudobný prehrávač pre jednu skladbu s vlastným ovládaním m
 
 * ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
   
-### Demo naživo: 
-[https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
+### Demo naživo:
+[![Demo naživo](https://img.shields.io/badge/Demo%20naživo-Navštíviť%20stránku-brightgreen?logo=github)](https://doremsa.github.io/music-player)
