@@ -13,11 +13,11 @@ A minimalist single-track music player widget featuring custom media controls, s
 * **Perfectly Centered Layout:** Clean Flexbox implementation ensuring the widget stays perfectly centered on any screen.
 
 ### Technologies Used:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic markup, including native `<audio>` element integration and custom `<input type="range">`.
+* ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic markup, including native `<audio>` element integration and custom `<input type="range">`.
 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Flexbox layout, hover transitions, customized range track styling, and adaptive bounding box controls.
+* ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Flexbox layout, hover transitions, customized range track styling, and adaptive bounding box controls.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Audio object management, timeupdate event listeners, and drag-and-seek playback synchronization logic.
+* ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Audio object management, timeupdate event listeners, and drag-and-seek playback synchronization logic.
 
 ### Live Demo: 
 [https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
@@ -39,9 +39,11 @@ Minimalistický hudobný prehrávač pre jednu skladbu s vlastným ovládaním m
 * **Perfektne vycentrovaný vzhľad:** Čistá implementácia Flexboxu, ktorá zaisťuje, že widget zostane dokonale vycentrovaný na akejkoľvek obrazovke.
 
 ### Použité technológie:
-* **HTML5:** Sémantický kód vrátane integrácie natívneho prvku `<audio>` a prispôsobeného `<input type="range">`.
-* **CSS3:** Rozloženie Flexbox, hover prechody, kustomizovaný vzhľad posuvníka a responzívne obmedzenie rozmerov karty.
-* **JavaScript (Vanilla):** Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Sémantický kód vrátane integrácie natívneho prvku `<audio>` a prispôsobeného `<input type="range">`.
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Rozloženie Flexbox, hover prechody, kustomizovaný vzhľad posuvníka a responzívne obmedzenie rozmerov karty.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) Správa objektu Audio, poslucháče udalostí `timeupdate` a synchrónna logika pretáčania skladby.
 ### Demo naživo: 
 [https://doremsa.github.io/music-player](https://doremsa.github.io/music-player)
