@@ -18,7 +18,7 @@ A minimalist single-track music player widget featuring custom media controls, s
 * **Perfectly Centered Layout:** Clean Flexbox implementation ensuring the widget stays perfectly centered on any screen.
 
 ### Technologies Used:
-* ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic markup, including native `<audio>` element integration and custom `<input type="range">`.
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) Semantic markup, including native `<audio>` element integration and custom `<input type="range">`.
 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) Flexbox layout, hover transitions, customized range track styling, and adaptive bounding box controls.
 
